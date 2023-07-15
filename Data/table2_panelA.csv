@@ -1,0 +1,5 @@
+var_name,ns,n,Control,sdC,Treatment,sdT,pv,stars
+"Student is female (coded based on name)",857,19743,0.56,0.62,0.58,0.57,0.067,"*"
+"Q9 Parent is an employee",830,13540,0.48,,0.48,,0.831,""
+"Q9 Parent is self-employeed",830,13540,0.18,,0.18,,0.854,""
+"Q9 Parent's occupation is other (homemaker, retired, unemployed, other)",830,13540,0.34,,0.34,,0.927,""
