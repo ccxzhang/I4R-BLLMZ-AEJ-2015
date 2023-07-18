@@ -29,7 +29,7 @@
 clear
 clear matrix
 set mem 200m
-set matsize 1000
+set matsize 800
 set varabbrev off
 set more off
 
@@ -59,6 +59,7 @@ local z: word count `xvars'
 matrix T = J(`z', 7, . ) 
 matrix rownames T = `xvars' 
 matrix colnames T = ns n Control sdC Treatment sdT pv 
+c
 
 * Estimation
 foreach var in `test' { 
